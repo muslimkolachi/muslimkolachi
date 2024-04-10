@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I been making small projects on .NET core and learning it as I go!
+Making 1project a day till i get hired!
 
 * 🌍  I'm based in Islamabad || Karachi
 * ✉️  You can contact me at [muslimkolachi@gmail.com](mailto:muslimkolachi@gmail.com)
